@@ -1,0 +1,79 @@
+# Directories
+/node_modules/
+/public/vendor/
+/storage/
+/vendor/
+/dist/
+
+# Environment files
+.env
+.env.*
+.env.local
+
+# Laravel specific files and directories
+bootstrap/cache/
+public/hot/
+public/storage/
+storage/*.key
+storage/*.log
+storage/debugbar/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/testing/
+storage/framework/views/
+storage/logs/
+composer.lock
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# PhpStorm project files
+/.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# React specific files and directories
+/node_modules/
+/build/
+/.eslintcache
+npm-debug.log
+yarn-error.log
+
+# Compiled and generated files
+*.phpstorm.meta.php
+*.phpstorm.meta.phpstorm.meta.php
+*.log
+*.sql
+*.sqlite
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Mac OS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Other editor and system files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+.kateproject
+.kateconfig
+*.nvim
+*.swp
+*~
+._*
+\#*\#
+.svn/
+CVS/
